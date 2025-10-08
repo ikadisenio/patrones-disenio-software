@@ -1,6 +1,12 @@
 # Memento
+
 Propósito
   - Capturar y almacenar el estado interno de un objeto en un momento dado para poder restaurarlo posteriormente sin violar la encapsulación del objeto.
 
 # Escenario
+
   - En una aplicación de edición de texto (como un bloc de notas), los usuarios pueden escribir, borrar o modificar contenido. A menudo quieren deshacer cambios y volver a un estado anterior del documento. Sin embargo, guardar todo el historial de cambios dentro del mismo objeto puede hacer que el código sea complejo y difícil de mantener
+
+# Solucion
+
+  - Programa "editor" construido en JAVA con patron MVC 
