@@ -1,0 +1,6 @@
+ika\editor\Editor.class
+controlador\EditorController.class
+modelo\Historial.class
+modelo\EditorTexto.class
+modelo\TextoMemento.class
+vista\EditorView.class
